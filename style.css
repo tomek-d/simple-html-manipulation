@@ -1,0 +1,25 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.bar {
+  display: inline-block;
+  vertical-align: bottom;
+  width: 30px;
+  margin: 3px;
+  color: brown;
+  text-align: center;
+}
+
+.bar:hover {
+  filter: brightness(85%);
+}
+
+.bar1 {
+  background-color: coral;
+}
+
+.bar2 {
+  background-color: chocolate;
+}
